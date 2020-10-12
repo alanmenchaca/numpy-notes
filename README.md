@@ -1,6 +1,8 @@
 # numpy-notes
 NumPy is the fundamental package needed for scientific computing with Python.
 
+![numpy-logo](images/numpy-logo.png)
+
 - **Website:** https://www.numpy.org
 - **Documentation:** https://numpy.org/doc
 - **Mailing list:** https://mail.python.org/mailman/listinfo/numpy-discussion
