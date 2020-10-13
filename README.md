@@ -38,7 +38,7 @@ pip install numpy
 **Notes based on the book:**
 Robert, J. (2019). Numerical Python, 2nd Edition. Chiba: Apress
 
-#### References
+### References
 
 Idris, I. Learning NumPy Array. Mumbai: Packt, 2014.
 
