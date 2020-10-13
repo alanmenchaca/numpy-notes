@@ -2,6 +2,7 @@
 NumPy is the fundamental package needed for scientific computing with Python.
 
 ![numpy-logo](images/numpy-logo.png)
+------------------------------------
 
 - **Website:** https://www.numpy.org
 - **Documentation:** https://numpy.org/doc
@@ -34,3 +35,15 @@ conda install numpy
 # or PyPI
 pip install numpy
 ```
+**Notes based on the book:**
+Robert, J. (2019). Numerical Python, 2nd Edition. Chiba: Apress
+
+#### References
+
+Idris, I. Learning NumPy Array. Mumbai: Packt, 2014.
+
+—. Numpy Beginner’s Guide. 3rd. Mumbai: Packt, 2015.
+
+—. NumPy Cookbook. Mumbai: Packt, 2012.
+
+McKinney, Wes. Python for Data Analysis. Sebastopol: O’Reilly, 2013.
