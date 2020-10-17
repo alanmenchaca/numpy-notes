@@ -35,8 +35,8 @@ conda install numpy
 # or PyPI
 pip install numpy
 ```
-### References
 
+### References
 Idris, I. Learning NumPy Array. Mumbai: Packt, 2014.
 
 —. Numpy Beginner’s Guide. 3rd. Mumbai: Packt, 2015.
