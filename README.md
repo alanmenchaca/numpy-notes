@@ -35,8 +35,6 @@ conda install numpy
 # or PyPI
 pip install numpy
 ```
-**Notes based on the book:**
-Robert, J. (2019). Numerical Python, 2nd Edition. Chiba: Apress
 
 ### References
 
@@ -47,3 +45,7 @@ Idris, I. Learning NumPy Array. Mumbai: Packt, 2014.
 —. NumPy Cookbook. Mumbai: Packt, 2012.
 
 McKinney, Wes. Python for Data Analysis. Sebastopol: O’Reilly, 2013.
+
+**Notes based on the book:**
+Robert, J. (2019). Numerical Python, 2nd Edition. Chiba: Apress
+
