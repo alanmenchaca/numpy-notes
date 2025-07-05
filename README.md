@@ -1,6 +1,4 @@
 # numpy-notes
-NumPy is the fundamental package needed for scientific computing with Python.
-
 ### [Hyperlinks](https://nbviewer.jupyter.org/github/alanmenchaca/numpy-notes/tree/main/) to view notebooks
 * [Introduction to Numpy](https://nbviewer.jupyter.org/github/alanmenchaca/numpy-notes/blob/main/Introduction_to_NumPy.ipynb) 
 * [Creating Arrays](https://nbviewer.jupyter.org/github/alanmenchaca/numpy-notes/blob/main/Creating_Arrays.ipynb)
