@@ -6,8 +6,8 @@
 * [Reshaping and Resizing](https://nbviewer.jupyter.org/github/alanmenchaca/numpy-notes/blob/main/Reshaping_and_Resizing.ipynb)
 * [Vectorized Expressions](https://nbviewer.jupyter.org/github/alanmenchaca/numpy-notes/blob/main/Vectorized_Expressions.ipynb)
 
-### Where to get it?
-The source code is currently hosted on GitHub at: https://github.com/numpy/numpy
+### NumPy Installation
+You can install NumPy using either of the following methods:
 ```sh
 # Conda
 conda install numpy
@@ -17,6 +17,7 @@ conda install numpy
 # or PyPI
 pip install numpy
 ```
+the source code is hosted on GitHub: [NumPy gitHub](https://github.com/numpy/numpy)
 
 ### References
 Idris, I. Learning NumPy Array. Mumbai: Packt, 2014.
